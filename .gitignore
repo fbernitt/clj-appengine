@@ -1,0 +1,15 @@
+/target
+/classes
+/checkouts
+/.idea
+*.iml
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+modules/plugin/target
+modules/runtime/target
+modules/template/target
+
